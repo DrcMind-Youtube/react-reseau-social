@@ -1,0 +1,86 @@
+{
+  "utilisateurs": [
+    {
+      "nomUtilisateur": "tacite",
+      "mailUtilisateur": "test@gmail.com",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456",
+      "id": 1
+    },
+    {
+      "nomUtilisateur": "tacite",
+      "mailUtilisateur": "test@yahoo.fr",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456",
+      "id": 2
+    },
+    {
+      "nomUtilisateur": "tacite",
+      "mailUtilisateur": "gwrgw@gms.com",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456",
+      "id": 3
+    },
+    {
+      "nomUtilisateur": "Aksanti bahiga",
+      "mailUtilisateur": "aksantibahiga3@gmail.com",
+      "motDePasse": "123456",
+      "motDePasseConfirmation": "123456",
+      "id": 4
+    },
+    {
+      "nomUtilisateur": "Drcmind officiel",
+      "mailUtilisateur": "drcmind@gmail.com",
+      "motDePasse": "drcmind",
+      "motDePasseConfirmation": "drcmind",
+      "id": 5
+    }
+  ],
+  "publications": [
+    {
+      "textePublication": "Bonjour les amis",
+      "imagePublication": "https://img.freepik.com/free-photo/group-five-african-college-students-spending-time-together-campus-university-yard-black-afro-friends-studying-education-theme_627829-6007.jpg?w=740&t=st=1686047188~exp=1686047788~hmac=4d4bfd73568f62fae30e2926569f73d10cb08b4bb505359572f47ae8fcd5aea4",
+      "idUtilisateur": 1,
+      "datePublication": "2023-06-06T09:25:56.008Z",
+      "likePublication": 0,
+      "auteur": "tacite",
+      "id": 1
+    },
+    {
+      "textePublication": "Hey les etudiants",
+      "imagePublication": "https://img.freepik.com/free-photo/friends-walking-down-street_1139-611.jpg?t=st=1686016155~exp=1686016755~hmac=43fd08fb5d85ce06b37b9b53a9a53fdf7f6b4cd366f09c82da74d146974283fd",
+      "idUtilisateur": 1,
+      "datePublication": "2023-06-06T09:27:12.844Z",
+      "likePublication": 0,
+      "auteur": "tacite",
+      "id": 2
+    },
+    {
+      "textePublication": "Bonjour je suis nouveau et j'aime cette plateforme",
+      "imagePublication": "https://img.freepik.com/free-photo/smiling-multiethnic-students-holding-blank-white-poster-standing-front-glass-building_23-2148192472.jpg?w=740&t=st=1686047645~exp=1686048245~hmac=90c3c6148568d97963c553e2dbecc18c40f97c372d33b0bfaea3f9ff2dc42d44",
+      "idUtilisateur": 4,
+      "datePublication": "2023-06-06T09:33:33.194Z",
+      "likePublication": 0,
+      "auteur": "Aksanti bahiga",
+      "id": 3
+    },
+    {
+      "textePublication": "lekqgqegqegqelogqegqg",
+      "imagePublication": "https://img.freepik.com/free-photo/smiling-young-afro-american-student-with-backpack-holding-books_141793-123010.jpg?w=740&t=st=1686047745~exp=1686048345~hmac=0680fe7a476e5f25af142f4ac5bcc11337b8210b9c786031787bd6d7a8cf42a4",
+      "idUtilisateur": 4,
+      "datePublication": "2023-06-06T09:35:21.343Z",
+      "likePublication": 0,
+      "auteur": "Aksanti bahiga",
+      "id": 4
+    },
+    {
+      "textePublication": "ewhwhwhwrh",
+      "imagePublication": "https://img.freepik.com/free-photo/happy-young-african-woman-holding-notebooks-coffee_171337-14037.jpg?w=740&t=st=1686047828~exp=1686048428~hmac=01b5630bf6a2baf601973d44f15e010671c913441f2dadfcafcc6098c01a446e",
+      "idUtilisateur": 5,
+      "datePublication": "2023-06-06T09:38:07.413Z",
+      "likePublication": 0,
+      "auteur": "Drcmind officiel",
+      "id": 5
+    }
+  ]
+}
